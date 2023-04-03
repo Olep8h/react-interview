@@ -1,0 +1,29 @@
+{
+  "name": "react-17",
+  "version": "1.0.0",
+  "description": "Installing transform jsx react jsx - transform --> this avoid importing",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/core": "7.21.4",
+    "@babel/plugin-transform-react-jsx": "7.21.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "5.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
